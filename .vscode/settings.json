@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "JavaFundamentals",
+        "Day1ProgrammingElements",
+        "Arrays",
+        "Strings"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
